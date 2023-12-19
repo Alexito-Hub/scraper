@@ -1,0 +1,19 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "web scraper",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexito-Hub/scraper.git"
+  },
+  "author": "Alexito-Hub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexito-Hub/scraper/issues"
+  },
+  "homepage": "https://github.com/Alexito-Hub/scraper#readme"
+}
